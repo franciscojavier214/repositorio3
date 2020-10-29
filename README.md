@@ -1,0 +1,1 @@
+En este proyecto provamos los usos de find y los query selector, en la documentacion se encuentra la sintasys de estos , en la carpeta src estan los datos y las consultas con lo anteriormente descrito, ademas pruebo el .sort que me permite ordenar los archivos en este caso segun sus cantidades de menor a mayor.
